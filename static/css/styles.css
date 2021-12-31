@@ -1,0 +1,42 @@
+.main{
+    padding: 30px;
+}
+
+.buildings{
+    display: flex;
+}
+
+.buildings div{
+    flex: 1;
+    border: 2px solid black;
+    width: 200px;
+    height: width;
+    padding: 20px;
+}
+
+.farm{
+    margin-right: 20px;
+}
+
+.cave{
+    margin-right: 20px;
+}
+
+.house{
+    margin-right: 20px;
+}
+
+form input{
+    border: solid black 2px;
+    padding: 5px;
+}
+
+#activities{
+    border: solid black 2px;
+    height: 100px;
+    padding: 10px;
+}
+
+#message{
+    color: var(--c);
+}
